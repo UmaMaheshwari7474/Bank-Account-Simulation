@@ -22,11 +22,13 @@ Programming (OOP).
 - Git and GitHub
 
 ## Project Structure
+```text
 Bank-Account-Simulation/
 ├── Account.java
 ├── Main.java
 ├── README.md
 └── .gitignore
+```
 
 ## Prerequisites
 - Java JDK installed
